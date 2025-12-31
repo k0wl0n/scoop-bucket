@@ -6,14 +6,14 @@
             "bin": [
                 "gctx.exe"
             ],
-            "hash": "4e34d23ad118104eee632e3e6ff6aa2f239109da9b8ab091dc177a231049298c"
+            "hash": "0fc2d9e54ca8e37d0c9899a3a80d722415eaf388360b3449691bdd327d040e6d"
         },
         "arm64": {
             "url": "https://github.com/k0wl0n/gctx/releases/download/v0.2.1/gctx-0.2.1-windows-arm64.tar.gz",
             "bin": [
                 "gctx.exe"
             ],
-            "hash": "3778f047726ecdf218e6ddc1cfeb8d27e43fbea7d4edc42c69d581a408bcff38"
+            "hash": "2370c29d42c33004a78d8153bae07234bf2b1ecefe816135dd0d8d27d0b9281a"
         }
     },
     "homepage": "https://github.com/k0wl0n/gctx",
