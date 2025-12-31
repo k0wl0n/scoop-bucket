@@ -1,0 +1,22 @@
+{
+    "version": "0.2.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/k0wl0n/gctx/releases/download/v0.2.1/gctx-0.2.1-windows-amd64.tar.gz",
+            "bin": [
+                "gctx.exe"
+            ],
+            "hash": "4e34d23ad118104eee632e3e6ff6aa2f239109da9b8ab091dc177a231049298c"
+        },
+        "arm64": {
+            "url": "https://github.com/k0wl0n/gctx/releases/download/v0.2.1/gctx-0.2.1-windows-arm64.tar.gz",
+            "bin": [
+                "gctx.exe"
+            ],
+            "hash": "3778f047726ecdf218e6ddc1cfeb8d27e43fbea7d4edc42c69d581a408bcff38"
+        }
+    },
+    "homepage": "https://github.com/k0wl0n/gctx",
+    "license": "MIT",
+    "description": "GCloud Multi-Account Manager (Go + Cobra)"
+}
