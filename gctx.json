@@ -1,19 +1,19 @@
 {
-    "version": "0.5.2",
+    "version": "0.5.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/k0wl0n/gctx/releases/download/v0.5.2/gctx-0.5.2-windows-amd64.tar.gz",
+            "url": "https://github.com/k0wl0n/gctx/releases/download/v0.5.3/gctx-0.5.3-windows-amd64.tar.gz",
             "bin": [
                 "gctx.exe"
             ],
-            "hash": "10fd629eb40c03097e73a7616ffde73a397d7acd1aed25ae66933d291a3f4588"
+            "hash": "511b5288e5e57d4db4ba76177e1ebf8b9400eaf6e3cfdbf62708997d879fdfb3"
         },
         "arm64": {
-            "url": "https://github.com/k0wl0n/gctx/releases/download/v0.5.2/gctx-0.5.2-windows-arm64.tar.gz",
+            "url": "https://github.com/k0wl0n/gctx/releases/download/v0.5.3/gctx-0.5.3-windows-arm64.tar.gz",
             "bin": [
                 "gctx.exe"
             ],
-            "hash": "2f871e4e4eae18b5893171532239a4ebb7de78da3d072bb9d9e942687efb8ba9"
+            "hash": "afc7d510de2284a43ad26bf01e3d594fd755da09835c77f4334336bf62e9c188"
         }
     },
     "homepage": "https://github.com/k0wl0n/gctx",
